@@ -1,35 +1,34 @@
 # Olá, eu sou Cristiane! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-teixeira-de-castro-de-sá-999803152/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crisprogramadora)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00FF00?style=for-the-badge)]()
 [![Studying](https://img.shields.io/badge/Studying-FFA500?style=for-the-badge)]()
 
-## Sobre Mim
+Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha trajetória começou na área da educação, onde atuei como pedagoga, psicopedagoga e especialista em educação especial e inclusiva. Porém, movida pelo fascínio pela tecnologia e pela capacidade de solucionar problemas digitais, decidi migrar para a área de desenvolvimento de software.
 
-Sou uma profissional apaixonada por educação e tecnologia, com uma trajetória única que combina pedagogia, inclusão e desenvolvimento de sistemas. Com 38 anos, casada e mãe de duas filhas adolescentes, decidi migrar para a área de tecnologia após perceber minha afinidade com computadores e minha habilidade em ajudar familiares e amigos com soluções digitais.
+## 🎯 Sobre Mim
 
-### Minha Jornada
-- **Formação Acadêmica**: 
-  - Graduação em Pedagogia.
-  - Pós-graduação em Educação Especial e Inclusiva.
-  - Pós-graduação em Psicopedagogia.
-  - Cursando o último semestre de Análise e Desenvolvimento de Sistemas.
-  
-- **Experiência Profissional**:
-  - Atuei como educadora no ensino fundamental e educação infantil, desenvolvendo habilidades como empatia, resolução de problemas e trabalho em equipe.
-  - Transicionei para a área de tecnologia, onde tenho me dedicado ao desenvolvimento web, análise de dados e automação.
+- 🎓 **Formação**: Último semestre em Análise e Desenvolvimento de Sistemas.
+- 💡 **Transição de Carreira**: Da pedagogia para a tecnologia, combinando ensino, criatividade e resolução de problemas.
+- 🖥 **Especialização em Desenvolvimento Web**: Fullstack, com experiência prática em diversas tecnologias.
+- 📊 **Interesse em Dados e Inteligência Artificial**: Aprimorando conhecimentos em Power BI, Excel avançado e IA generativa.
+- 👨‍👩‍👧‍👧 **Família e Motivação**: Casada e mãe de duas filhas adolescentes, encontrando inspiração nelas para sempre evoluir!
 
-- **Cursos e Bootcamps**:
-  - Desenvolvimento Web Fullstack (curso intensivo de um ano).
-  - Imersão Frontend pela Alura.
-  - Power Excel Express (criação de dashboards com Excel e Power BI).
-  - Bootcamp de IA Generativa da AWS.
-  - Bootcamp Microsoft Copilot AI pela DIO em parceria com a Microsoft.
-  - Bootcamp Java Cloud Native pela DIO em parceria com o Bradesco (em andamento).
-  - Bootcamp de Testes de Software pelo Instituto Matera (em andamento).
+## 📚 Formação & Certificações
 
-## Habilidades Técnicas
+- **Licenciatura em Pedagogia** (com especialização em Educação Especial e Psicopedagogia)
+- **Análise e Desenvolvimento de Sistemas** (Último Semestre)
+- **Bootcamps e Cursos**:
+  - Desenvolvimento Web Fullstack Intensivo
+  - Imersão Frontend - Alura
+  - Power Excel Express (Dashboards com Excel e Power BI)
+  - **Bootcamp IA Generativa - AWS**
+  - **Bootcamp Microsoft Copilot AI - DIO & Microsoft**
+  - **Bootcamp Java Cloud Native - DIO & Bradesco** *(Em andamento)*
+  - **Bootcamp Testes de Software - Instituto Matera** *(Em andamento)*
+
+## 🚀 Habilidades Técnicas
 
 ### Frontend
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -49,7 +48,7 @@ Sou uma profissional apaixonada por educação e tecnologia, com uma trajetória
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 ### Inteligência Artificial
-[![ChatGPT]((https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white))]()
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]()
 [![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)]()
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)]()
 
@@ -67,9 +66,9 @@ Sou uma profissional apaixonada por educação e tecnologia, com uma trajetória
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisprogramadora&show_icons=true&theme=tokionight)
+[![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=crisprogramadora&show_icons=true&theme=tokyonight)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisprogramadora&show&theme=tokionight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=crisprogramadora&hide_progress=true&theme=tokyonight)]()
 
 ## Por que me contratar?
 
@@ -77,8 +76,11 @@ Sou uma profissional apaixonada por educação e tecnologia, com uma trajetória
 - **Adaptabilidade**: Transicionei de carreira com sucesso, demonstrando capacidade de aprendizado rápido e disposição para enfrentar novos desafios.
 - **Paixão por Tecnologia**: Sou movida pela curiosidade e pelo desejo de aprender, sempre buscando me atualizar e me aprofundar em novas tecnologias.
 
-## Contato
+➡️ Veja mais no meu repositório: [github.com/crisprogramadora](https://github.com/crisprogramadora)
+
+Sempre em busca de aprendizado e desafios! Vamos construir algo incrível juntos? 😃
+
+## 🌎 Onde me encontrar
 
 - **LinkedIn**: www.linkedin.com/in/cristiane-teixeira-de-castro-de-sá-999803152
 - **E-mail**: crisprogramadora24@outlook.com
-- **GitHub**: [github.com/crisprogramadora](https://github.com/crisprogramadora)

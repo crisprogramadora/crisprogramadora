@@ -68,7 +68,8 @@ Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha tr
 
 [![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=crisprogramadora&show_icons=true&theme=tokyonight)]()
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=crisprogramadora&hide_progress=true&theme=tokyonight)]()
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=crisprogramadora&layout=compact&theme=tokyonight)]()
+
 
 ## Por que me contratar?
 

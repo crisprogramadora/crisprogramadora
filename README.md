@@ -60,13 +60,16 @@ Sou uma profissional apaixonada por educação e tecnologia, com uma trajetória
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
 [![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)]()
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)]()
 
 ### Ferramentas e Tecnologias
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisprogramadora&show_icons=true&theme=tokionight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisprogramadora&show&theme=tokionight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Por que me contratar?
 

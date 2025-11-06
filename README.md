@@ -9,7 +9,7 @@ Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha tr
 
 ## 🎯 Sobre Mim
 
-- 🎓 **Formação**: Último semestre em Análise e Desenvolvimento de Sistemas.
+- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas.
 - 💡 **Transição de Carreira**: Da pedagogia para a tecnologia, combinando ensino, criatividade e resolução de problemas.
 - 🖥 **Especialização em Desenvolvimento Web**: Fullstack, com experiência prática em diversas tecnologias.
 - 📊 **Interesse em Dados e Inteligência Artificial**: Aprimorando conhecimentos em Power BI, Excel avançado e IA generativa.
@@ -17,8 +17,8 @@ Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha tr
 
 ## 📚 Formação & Certificações
 
+- **Análise e Desenvolvimento de Sistemas** 
 - **Licenciatura em Pedagogia** (com especialização em Educação Especial e Psicopedagogia)
-- **Análise e Desenvolvimento de Sistemas** (Último Semestre)
 - **Bootcamps e Cursos**:
   - Desenvolvimento Web Fullstack Intensivo
   - Imersão Frontend - Alura
@@ -46,6 +46,8 @@ Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha tr
 ### Banco de Dados
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
+[![Excel](https://img.shields.io/badge/Excel-2CA5E0?style=for-the-badge&logo=Excel&logoColor=white)]()
 
 ### Inteligência Artificial
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]()
@@ -54,7 +56,6 @@ Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha tr
 
 ### Frameworks e bibliotecas
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white))]()
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
 [![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)]()

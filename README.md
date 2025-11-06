@@ -45,7 +45,7 @@ Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha tr
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
-[![Excel](https://img.shields.io/badge/Excel-2CA5E0?style=for-the-badge&logo=Excel&logoColor=white)]()
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 
 ### Inteligência Artificial
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]()

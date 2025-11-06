@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-teixeira-de-castro-de-sá-999803152/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crisprogramadora)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00FF00?style=for-the-badge)]()
-[![Studying](https://img.shields.io/badge/Studying-FFA500?style=for-the-badge)]()
 
 Sou uma profissional apaixonada por tecnologia e aprendizado contínuo! Minha trajetória começou na área da educação, onde atuei como pedagoga, psicopedagoga e especialista em educação especial e inclusiva. Porém, movida pelo fascínio pela tecnologia e pela capacidade de solucionar problemas digitais, decidi migrar para a área de desenvolvimento de software.
 
